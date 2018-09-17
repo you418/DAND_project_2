@@ -3,4 +3,4 @@ project_2 Appointments_no_show
 
 confidence_intervals_bootstrapping
 
-A/B testing
+project_3 A/B testing
